@@ -1,0 +1,15 @@
+Answers:
+
+Room 1: No Password
+
+Room 2: Update the URL to say Room3.html instead of Room2.html
+
+Room 3: HackingThough3ImOnASpree!
+
+Room 4: Room4IsAnOpenDoor!
+
+Room 5: </h1> <button onclick = "room5()"> Exploit! </button><h1>
+
+Room 6 step 1: asdf' OR 1 = 1; INSERT INTO Passwords VALUES ('Room6HasGotSomeTricks!');Select * from Passwords where Password = '
+
+Room 6 step 2: Room6HasGotSomeTricks!
